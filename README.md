@@ -1,2 +1,2 @@
 # screenshots
-![Blog](https://postimg.cc/F7yMBcKP)
+![Blog](https://i.postimg.cc/QxwjVJZr/Home.png)
