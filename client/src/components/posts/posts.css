@@ -1,0 +1,16 @@
+.posts{
+    flex: 9;
+    background-color: rgb(245, 245, 247);
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 5px;
+    margin-top: 20px;
+    border-radius: 10px;
+
+}
+@media screen and (max-width: 737px) {
+    .posts{
+        display: flex;
+    }
+    
+}

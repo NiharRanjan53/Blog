@@ -1,0 +1,62 @@
+.register{
+
+    height: calc(100vh - 50px);
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(
+        rgba(126, 114, 114, 0.5),
+        rgba(145, 133, 133, 0.5)
+        ), url("https://c0.wallpaperflare.com/preview/955/464/977/backgrounds-flatlay-craft-diy-school.jpg");
+        background-size: cover;
+    
+
+}
+.registerTitle{
+    font-size: 35px;
+}
+.registerForm{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.registerForm > label{
+    font-size: 20px;
+    font-weight: 400;
+}
+.registerForm > button{
+    margin: 10px 0;
+}
+
+.registerInput{
+    padding: 10px;
+    background-color: white;
+    border: none;
+
+}
+
+
+.registerButton{
+    margin-top: 20px;
+    cursor: pointer;
+    background-color: teal;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+.registerLoginButton{
+    position: absolute;
+    top: 60px;
+    right: 20px;
+    background-color: rgb(150, 73, 69);
+    cursor: pointer;
+    border: none;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+
+
+}

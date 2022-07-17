@@ -1,0 +1,22 @@
+.home{
+    display: flex;
+}
+
+@media screen and (max-width: 670px) {
+    .header{
+        display: block;
+    }
+    .home{
+        display: block;
+        
+    }
+    .posts{
+        padding: 80px;
+        align-content: center;
+       
+    }
+   
+    .sidebar{
+        display: none;
+    }
+}
