@@ -1,1 +1,1 @@
-![](https://postimg.cc/F7yMBcKP)
+[](https://postimg.cc/F7yMBcKP)
